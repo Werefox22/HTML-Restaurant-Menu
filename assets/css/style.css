@@ -52,6 +52,12 @@ nav a {
     margin-right: 25px;
 }
 
+#current {
+    background-color: white;
+    border: green;
+    border-style: ridge;
+}
+
 nav a:hover {
     color: darkred;
 }
